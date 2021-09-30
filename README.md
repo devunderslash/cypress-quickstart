@@ -1,6 +1,6 @@
 # Cypress Quickstart
 
-Fork this Repository and then clone it to your local machine. Can follow along with this [guide for setup](https://devunderslash.medium.com/automated-testing-quick-start-with-cypress-github-pages-and-github-actions-bf29286863b6)
+Fork this Repository and then clone it to your local machine. You can follow along with this [guide for setup](https://devunderslash.medium.com/automated-testing-quick-start-with-cypress-github-pages-and-github-actions-bf29286863b6)
 
 ## Features
 The main features of this quickstart are:
